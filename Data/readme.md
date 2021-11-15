@@ -4,3 +4,5 @@ data.xlsx - COVID-19 statistics for Russia managed by Alexei Kouprianov (https:/
 time_series_covid19_confirmed_global.csv - country-level confirmed cases from Johns Hopkins repository (https://github.com/CSSEGISandData/COVID-19)
 
 inc_spb_daily_allyears.xlsx - long-term influenza incidence for Saint Petersburg by age groups, October-May periods (several points omitted)
+
+Данные с 1990 по 201930.xlsx - Weekly flu incidence in major Russian cities, 1990-2019
