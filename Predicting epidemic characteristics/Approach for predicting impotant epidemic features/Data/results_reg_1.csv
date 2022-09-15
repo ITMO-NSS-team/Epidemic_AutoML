@@ -1,0 +1,11 @@
+mod_name,dataset,mae,mse,tar
+XGBRegressor,df_final,5.244605704785267,58.555636048127866,duration_treatment
+DecisionTreeRegressor,df_final,7.083117942330078,112.80356637082843,duration_treatment
+LinearRegression,df_final,4.981563275917281,52.017745966406785,duration_treatment
+RandomForestRegressor,df_final,4.835056654136174,51.95438154621824,duration_treatment
+Fedot,df_final,3.92265613983349,23.485321728796226,duration_treatment
+XGBRegressor,df_final_dinamic,5.354398732703369,60.66002572768409,duration_treatment
+DecisionTreeRegressor,df_final_dinamic,6.918489890339657,100.43011006813919,duration_treatment
+LinearRegression,df_final_dinamic,4.924062678614535,51.52790163637787,duration_treatment
+RandomForestRegressor,df_final_dinamic,4.94304761512853,53.3022684083687,duration_treatment
+Fedot,df_final_dinamic,3.6637914264227995,21.715176233552068,duration_treatment

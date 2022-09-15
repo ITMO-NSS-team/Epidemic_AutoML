@@ -1,0 +1,9 @@
+mod_name,dataset,accuracy,roc_auc,tar
+XGBClassifier,df_final,0.6099074335025136,0.8929093848167089,result
+DecisionTreeClassifier,df_final,0.6207945634294709,0.7706293588587831,result
+LogisticRegression,df_final,0.3392846000720725,0.7505535503675909,result
+RandomForestClassifier,df_final,0.6138157641725894,0.9036414863371371,result
+XGBClassifier,df_final_dinamic,0.599888383709636,0.9057785331369587,result
+DecisionTreeClassifier,df_final_dinamic,0.6314683256402662,0.7762689716926467,result
+LogisticRegression,df_final_dinamic,0.34858657232116613,0.7312375819621719,result
+RandomForestClassifier,df_final_dinamic,0.6054622784595625,0.8996225963049169,result
